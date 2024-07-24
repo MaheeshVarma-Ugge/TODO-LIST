@@ -1,19 +1,8 @@
 # TODO-LIST
 It is a front-end web application structure using JavaScript, HTML, and CSS.
 
-project-example/
-│
-├── index.html            
-├── style.css                    
-├── script.js
-├── images/
 
-node_modules/ (if using Node.js and npm)
-package.json (if using Node.js and npm)
-package-lock.json (if using Node.js and npm)
-
-
-Explanation of the structure:
+Explanation:
 index.html: The main HTML file for your web application.
 script.css: The main CSS files for styling your web pages.
 script.js: The main JavaScript file where you write your application logic.
