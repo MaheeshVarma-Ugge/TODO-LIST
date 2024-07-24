@@ -3,17 +3,15 @@ It is a front-end web application structure using JavaScript, HTML, and CSS.
 
 project-example/
 │
-├── index.html
-├── style.css
+├── index.html            
+├── style.css                    
 ├── script.js
 ├── images/
-│
-├── node_modules/ (if using Node.js and npm)
-│
-├── package.json (if using Node.js and npm)
-├── package-lock.json (if using Node.js and npm)
-│
-├── README.md
+
+node_modules/ (if using Node.js and npm)
+package.json (if using Node.js and npm)
+package-lock.json (if using Node.js and npm)
+
 
 Explanation of the structure:
 index.html: The main HTML file for your web application.
